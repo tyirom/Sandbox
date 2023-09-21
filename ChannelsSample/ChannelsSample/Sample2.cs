@@ -1,11 +1,11 @@
-﻿using System.Threading.Channels;
+using System.Threading.Channels;
 
 namespace ChannelsSample
 {
     /// <summary>
     /// System.Threading.Channels の基本的な使い方についてのサンプルです。
     /// </summary>
-    public class ChannelBasicReadWrite
+    public class ChannelBasicReadWrite2
     {
         public async Task Execute()
         {
